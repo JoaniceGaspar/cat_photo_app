@@ -37,5 +37,3 @@ In order to consolidate the HTML base, the tags used were: main, section, h1, h2
 <p align="center">
   <img alt="Project Diagram" src="" width="70%">
 </p>
-
-You can view the project Diagram through [THIS LINK](https://app.diagrams.net/#HJoaniceGaspar%2Fim_software_developer%2Fmain%2FIm%20software%20developer%20-%20Diagram#%7B%22pageId%22%3A%22sA10nH8Rf0f1mtfJWv6I%22%7D).
