@@ -31,7 +31,7 @@ This project was developed with the following technologies:
 
 "Cat Photo App" is a simple application that shows some photos of cats, a small list of what they like and what they don't like and a small form to collect data related to the user's cats.
 It was created with the aim of showing some of the most used tags in HTML pages as well as their correct use.
-In order to consolidate the HTML base, the tags used were: main, section, h1, h2..., img, <a>, ordered and unordered lists (ol, ul) and footer.
+In order to consolidate the HTML base, the tags used were: main, section, h1, h2..., <a>, img with legends, form with inputs, ordered and unordered lists (ol, ul) and footer.
 
 ## 🔖 Project Diagram
 <p align="center">
